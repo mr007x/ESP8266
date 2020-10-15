@@ -1,2 +1,3 @@
-# ESP8266_Projects
-Collection of projects with ESP8266 and RTOS/ESP-IDF
+# ESP8266
+
+Collection of projects, code snippets and more for ESP8266 and RTOS/ESP-IDF
